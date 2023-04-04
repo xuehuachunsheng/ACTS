@@ -1,0 +1,9 @@
+torch==1.13.1+cu116 -f https://download.pytorch.org/whl/lts/1.8/torch_lts.html
+torchvision==0.14.1+cu116 -f https://download.pytorch.org/whl/torchvision/
+torchaudio==0.13.1
+torchsummary
+pillow
+numpy
+opencv-python
+scikit-learn
+matplotlib
